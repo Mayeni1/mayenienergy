@@ -1,0 +1,171 @@
+.nav-main, button, .cont-3, .dropdown-menu{
+    background-color: #045097 ;
+    
+}
+.logo{
+    font-family:  'Archivo Black', sans-serif;
+    line-height: 10px;
+
+}
+.nav-item a{
+    color:  #FFF !important;
+    font-family: 'Roboto', sans-serif;;
+}
+.nav-link:hover, .login a:hover{
+    color: #FFF205 !important;
+}
+.logo span{
+    font-family: 'Lobster', cursive; 
+    font-size: 10px;
+    color: #FFFE33;
+}
+.nav-section{
+    width: 70%;
+}
+
+.dropdown-item:hover{
+    background-color: #FFF205!important;
+    color: #045097 !important;
+}
+
+.navbar-toggler-icon{
+    color: #fff !important;
+    z-index: 100;
+}
+
+h1, h2, h3, .col ul li, p, .text-serv{
+    color:#045097;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    line-height:2em;
+}
+
+.home-wecome, .subscribe {
+background-color: #04509718;
+}
+
+.main-body{
+    background-image: url('./solar.png');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.services, .why-us{
+    height: 17em;
+}
+.cont-4{
+    /* height: 30em; */
+    background-color: black;
+}
+
+ .subscribe{
+     background-color:#04509718;
+     /* height:25em; */
+ }
+
+ .contact-carousel{
+     background-repeat: no-repeat;
+     background-size: contain;
+     background-position: center center;
+     height: 90vh
+ }
+ .carousel-inner{
+     position: relative;
+ }
+.contact-head{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    z-index: 100;
+}
+
+.carousel-inner h2{
+font-size:4em
+}
+h2 span{
+    color:#FFF205
+}   
+  
+ .contact-info{
+    /* height: 40em; */
+    background-color:#04509718;
+ }
+
+ .contact-form{
+     background-color: #ccc;
+ }
+
+ .contact-info p, .contact-info h3 {
+     color: #332E31   ;
+ }
+
+
+ .about-con{
+     background-image: url('./bg-1.png');
+     height:95vh;
+     background-size: cover;
+     background-position: center center;
+ }
+ .about-con .row{
+     background-color:#04509755;
+     height: 100%;
+     z-index: 100;
+ }
+
+   .about-con h2{
+       font-size:4em 
+   }
+  .about-con span, .services-carousel h3{
+      color: #FFF205;
+
+  }
+  .history, .mission{
+      height:30em
+  }
+  .core-values{
+      background-color: #045097;
+      /* height: 80vh; */
+  }
+
+  .core-values h2, .login-head{
+color: #FFF205;
+font-size: 3em;
+font-weight: 900;
+  }
+
+  .core-values p, .core-values h3{
+      color: #FFF;
+  }
+
+.services-carousel{
+    background-image: url('./carousel2.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover;
+    height: 40em;
+}
+
+.bi{
+
+    font-size: 2em;
+}
+.bi:hover{
+    color:#FFF205 !important;
+}
+
+.services-carousel .carousel-item{
+    height: 100%
+}
+
+.services-carousel h3{
+    margin-top: 4em;
+    font-size: 40px;
+}
+
+.services-det{
+    /* height: 100vh; */
+    padding: 5em;
+}
